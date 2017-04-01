@@ -1,0 +1,16 @@
+{
+  "name": "voz",
+  "version": "0.0.1",
+  "description": "pro",
+  "main": "main.js",
+  "dependencies": {
+    "pg": "^6.1.5",
+    "scrape-it": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nnti3n",
+  "license": "MIT"
+}
