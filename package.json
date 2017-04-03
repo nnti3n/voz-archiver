@@ -4,6 +4,7 @@
   "description": "pro",
   "main": "main.js",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "pg": "^6.1.5",
     "scrape-it": "^3.3.2"
   },
