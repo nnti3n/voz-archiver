@@ -44,3 +44,5 @@ scrapeIt(`https://vozforums.com/showthread.php?t=${id}`, {
 }, (err, page) => {
     console.log(err || page);
 });
+
+insert();
